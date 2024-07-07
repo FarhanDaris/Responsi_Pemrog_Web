@@ -9,7 +9,6 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="D:\4921\responsi\Responsi_Pemrog_Web\" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Farhan Daris F</h4>
                       <p class="text-secondary mb-1">MAGIC CHESS</p>
